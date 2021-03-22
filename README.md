@@ -2,7 +2,7 @@
 
 Please read through jupyter notebook that explains the step by step methods how I implemented this project.
 
-I have written a blog to explain my approach towards same - https://neerajsomani.medium.com/imdb-movie-recommendation-project-cf04ccdc0463
+Please go through my blog for approach towards same - https://neerajsomani.medium.com/imdb-movie-recommendation-project-cf04ccdc0463
 
 [![Challenge Outcome](Architecture.png?raw=true "Challenge Outcome")](https://neerajsomani.medium.com/imdb-movie-recommendation-project-cf04ccdc0463)
 
