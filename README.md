@@ -4,6 +4,8 @@ Please read through jupyter notebook that explains the step by step methods how 
 
 I have written a blog to explain my approach towards same - https://neerajsomani.medium.com/imdb-movie-recommendation-project-cf04ccdc0463
 
+[![Challenge Outcome](/Screen Shot 2021-03-21 at 1.22.29 PM.png?raw=true "Challenge Outcome")](https://neerajsomani.medium.com/imdb-movie-recommendation-project-cf04ccdc0463)
+
 IMDB (Internet Movie Database) is an amazon company and it has one of the biggest dataset when its comes down to audio-video entertainment content, either it be Movies, TvSeries, or short films or documentaries.
 
 A few days back I came to know about this CloudGuruChallenge that publish in October 2020. The goal of the project is to use any technology tools to analyze data and make some recommendation predictions, like course recommendation or movie recommendation or song recommendation, etc.
